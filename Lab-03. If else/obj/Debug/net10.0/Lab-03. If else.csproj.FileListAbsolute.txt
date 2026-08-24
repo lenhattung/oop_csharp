@@ -1,0 +1,15 @@
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab-03. If else\bin\Debug\net10.0\Lab-03. If else.exe
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab-03. If else\bin\Debug\net10.0\Lab-03. If else.deps.json
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab-03. If else\bin\Debug\net10.0\Lab-03. If else.runtimeconfig.json
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab-03. If else\bin\Debug\net10.0\Lab-03. If else.dll
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab-03. If else\bin\Debug\net10.0\Lab-03. If else.pdb
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab-03. If else\obj\Debug\net10.0\Lab-03. If else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab-03. If else\obj\Debug\net10.0\Lab-03. If else.AssemblyInfoInputs.cache
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab-03. If else\obj\Debug\net10.0\Lab-03. If else.AssemblyInfo.cs
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab-03. If else\obj\Debug\net10.0\Lab-03. If else.csproj.CoreCompileInputs.cache
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab-03. If else\obj\Debug\net10.0\Lab-03. If else.sourcelink.json
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab-03. If else\obj\Debug\net10.0\Lab-03. If else.dll
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab-03. If else\obj\Debug\net10.0\refint\Lab-03. If else.dll
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab-03. If else\obj\Debug\net10.0\Lab-03. If else.pdb
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab-03. If else\obj\Debug\net10.0\Lab-03. If else.genruntimeconfig.cache
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab-03. If else\obj\Debug\net10.0\ref\Lab-03. If else.dll
