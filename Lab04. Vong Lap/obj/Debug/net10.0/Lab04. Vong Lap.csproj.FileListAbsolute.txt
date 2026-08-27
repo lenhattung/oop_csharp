@@ -1,0 +1,15 @@
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab04. Vong Lap\bin\Debug\net10.0\Lab04. Vong Lap.exe
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab04. Vong Lap\bin\Debug\net10.0\Lab04. Vong Lap.deps.json
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab04. Vong Lap\bin\Debug\net10.0\Lab04. Vong Lap.runtimeconfig.json
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab04. Vong Lap\bin\Debug\net10.0\Lab04. Vong Lap.dll
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab04. Vong Lap\bin\Debug\net10.0\Lab04. Vong Lap.pdb
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab04. Vong Lap\obj\Debug\net10.0\Lab04. Vong Lap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab04. Vong Lap\obj\Debug\net10.0\Lab04. Vong Lap.AssemblyInfoInputs.cache
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab04. Vong Lap\obj\Debug\net10.0\Lab04. Vong Lap.AssemblyInfo.cs
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab04. Vong Lap\obj\Debug\net10.0\Lab04. Vong Lap.csproj.CoreCompileInputs.cache
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab04. Vong Lap\obj\Debug\net10.0\Lab04. Vong Lap.sourcelink.json
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab04. Vong Lap\obj\Debug\net10.0\Lab04. Vong Lap.dll
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab04. Vong Lap\obj\Debug\net10.0\refint\Lab04. Vong Lap.dll
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab04. Vong Lap\obj\Debug\net10.0\Lab04. Vong Lap.pdb
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab04. Vong Lap\obj\Debug\net10.0\Lab04. Vong Lap.genruntimeconfig.cache
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab04. Vong Lap\obj\Debug\net10.0\ref\Lab04. Vong Lap.dll

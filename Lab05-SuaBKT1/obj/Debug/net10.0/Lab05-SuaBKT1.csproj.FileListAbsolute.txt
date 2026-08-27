@@ -1,0 +1,15 @@
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab05-SuaBKT1\bin\Debug\net10.0\Lab05-SuaBKT1.exe
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab05-SuaBKT1\bin\Debug\net10.0\Lab05-SuaBKT1.deps.json
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab05-SuaBKT1\bin\Debug\net10.0\Lab05-SuaBKT1.runtimeconfig.json
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab05-SuaBKT1\bin\Debug\net10.0\Lab05-SuaBKT1.dll
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab05-SuaBKT1\bin\Debug\net10.0\Lab05-SuaBKT1.pdb
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab05-SuaBKT1\obj\Debug\net10.0\Lab05-SuaBKT1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab05-SuaBKT1\obj\Debug\net10.0\Lab05-SuaBKT1.AssemblyInfoInputs.cache
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab05-SuaBKT1\obj\Debug\net10.0\Lab05-SuaBKT1.AssemblyInfo.cs
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab05-SuaBKT1\obj\Debug\net10.0\Lab05-SuaBKT1.csproj.CoreCompileInputs.cache
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab05-SuaBKT1\obj\Debug\net10.0\Lab05-SuaBKT1.sourcelink.json
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab05-SuaBKT1\obj\Debug\net10.0\Lab05-SuaBKT1.dll
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab05-SuaBKT1\obj\Debug\net10.0\refint\Lab05-SuaBKT1.dll
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab05-SuaBKT1\obj\Debug\net10.0\Lab05-SuaBKT1.pdb
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab05-SuaBKT1\obj\Debug\net10.0\Lab05-SuaBKT1.genruntimeconfig.cache
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab05-SuaBKT1\obj\Debug\net10.0\ref\Lab05-SuaBKT1.dll
