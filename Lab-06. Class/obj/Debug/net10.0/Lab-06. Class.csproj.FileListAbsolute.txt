@@ -1,0 +1,15 @@
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab-06. Class\bin\Debug\net10.0\Lab-06. Class.exe
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab-06. Class\bin\Debug\net10.0\Lab-06. Class.deps.json
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab-06. Class\bin\Debug\net10.0\Lab-06. Class.runtimeconfig.json
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab-06. Class\bin\Debug\net10.0\Lab-06. Class.dll
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab-06. Class\bin\Debug\net10.0\Lab-06. Class.pdb
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab-06. Class\obj\Debug\net10.0\Lab-06. Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab-06. Class\obj\Debug\net10.0\Lab-06. Class.AssemblyInfoInputs.cache
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab-06. Class\obj\Debug\net10.0\Lab-06. Class.AssemblyInfo.cs
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab-06. Class\obj\Debug\net10.0\Lab-06. Class.csproj.CoreCompileInputs.cache
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab-06. Class\obj\Debug\net10.0\Lab-06. Class.sourcelink.json
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab-06. Class\obj\Debug\net10.0\Lab-06. Class.dll
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab-06. Class\obj\Debug\net10.0\refint\Lab-06. Class.dll
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab-06. Class\obj\Debug\net10.0\Lab-06. Class.pdb
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab-06. Class\obj\Debug\net10.0\Lab-06. Class.genruntimeconfig.cache
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab-06. Class\obj\Debug\net10.0\ref\Lab-06. Class.dll
