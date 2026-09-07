@@ -1,0 +1,15 @@
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab07. Encapsulation\bin\Debug\net10.0\Lab07. Encapsulation.exe
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab07. Encapsulation\bin\Debug\net10.0\Lab07. Encapsulation.deps.json
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab07. Encapsulation\bin\Debug\net10.0\Lab07. Encapsulation.runtimeconfig.json
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab07. Encapsulation\bin\Debug\net10.0\Lab07. Encapsulation.dll
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab07. Encapsulation\bin\Debug\net10.0\Lab07. Encapsulation.pdb
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab07. Encapsulation\obj\Debug\net10.0\Lab07. Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab07. Encapsulation\obj\Debug\net10.0\Lab07. Encapsulation.AssemblyInfoInputs.cache
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab07. Encapsulation\obj\Debug\net10.0\Lab07. Encapsulation.AssemblyInfo.cs
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab07. Encapsulation\obj\Debug\net10.0\Lab07. Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab07. Encapsulation\obj\Debug\net10.0\Lab07. Encapsulation.sourcelink.json
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab07. Encapsulation\obj\Debug\net10.0\Lab07. Encapsulation.dll
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab07. Encapsulation\obj\Debug\net10.0\refint\Lab07. Encapsulation.dll
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab07. Encapsulation\obj\Debug\net10.0\Lab07. Encapsulation.pdb
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab07. Encapsulation\obj\Debug\net10.0\Lab07. Encapsulation.genruntimeconfig.cache
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab07. Encapsulation\obj\Debug\net10.0\ref\Lab07. Encapsulation.dll
