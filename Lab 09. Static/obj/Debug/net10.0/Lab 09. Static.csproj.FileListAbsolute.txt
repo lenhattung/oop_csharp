@@ -1,0 +1,15 @@
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab 09. Static\bin\Debug\net10.0\Lab 09. Static.exe
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab 09. Static\bin\Debug\net10.0\Lab 09. Static.deps.json
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab 09. Static\bin\Debug\net10.0\Lab 09. Static.runtimeconfig.json
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab 09. Static\bin\Debug\net10.0\Lab 09. Static.dll
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab 09. Static\bin\Debug\net10.0\Lab 09. Static.pdb
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab 09. Static\obj\Debug\net10.0\Lab 09. Static.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab 09. Static\obj\Debug\net10.0\Lab 09. Static.AssemblyInfoInputs.cache
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab 09. Static\obj\Debug\net10.0\Lab 09. Static.AssemblyInfo.cs
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab 09. Static\obj\Debug\net10.0\Lab 09. Static.csproj.CoreCompileInputs.cache
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab 09. Static\obj\Debug\net10.0\Lab 09. Static.sourcelink.json
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab 09. Static\obj\Debug\net10.0\Lab 09. Static.dll
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab 09. Static\obj\Debug\net10.0\refint\Lab 09. Static.dll
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab 09. Static\obj\Debug\net10.0\Lab 09. Static.pdb
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab 09. Static\obj\Debug\net10.0\Lab 09. Static.genruntimeconfig.cache
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab 09. Static\obj\Debug\net10.0\ref\Lab 09. Static.dll
