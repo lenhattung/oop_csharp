@@ -1,0 +1,15 @@
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab10. Inheritance\bin\Debug\net10.0\Lab10. Inheritance.exe
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab10. Inheritance\bin\Debug\net10.0\Lab10. Inheritance.deps.json
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab10. Inheritance\bin\Debug\net10.0\Lab10. Inheritance.runtimeconfig.json
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab10. Inheritance\bin\Debug\net10.0\Lab10. Inheritance.dll
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab10. Inheritance\bin\Debug\net10.0\Lab10. Inheritance.pdb
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab10. Inheritance\obj\Debug\net10.0\Lab10. Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab10. Inheritance\obj\Debug\net10.0\Lab10. Inheritance.AssemblyInfoInputs.cache
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab10. Inheritance\obj\Debug\net10.0\Lab10. Inheritance.AssemblyInfo.cs
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab10. Inheritance\obj\Debug\net10.0\Lab10. Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab10. Inheritance\obj\Debug\net10.0\Lab10. Inheritance.sourcelink.json
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab10. Inheritance\obj\Debug\net10.0\Lab10. Inheritance.dll
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab10. Inheritance\obj\Debug\net10.0\refint\Lab10. Inheritance.dll
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab10. Inheritance\obj\Debug\net10.0\Lab10. Inheritance.pdb
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab10. Inheritance\obj\Debug\net10.0\Lab10. Inheritance.genruntimeconfig.cache
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab10. Inheritance\obj\Debug\net10.0\ref\Lab10. Inheritance.dll
