@@ -1,0 +1,15 @@
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab14. List\obj\Debug\net10.0\Lab14. List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab14. List\obj\Debug\net10.0\Lab14. List.AssemblyInfoInputs.cache
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab14. List\obj\Debug\net10.0\Lab14. List.AssemblyInfo.cs
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab14. List\obj\Debug\net10.0\Lab14. List.csproj.CoreCompileInputs.cache
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab14. List\obj\Debug\net10.0\Lab14. List.sourcelink.json
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab14. List\bin\Debug\net10.0\Lab14. List.exe
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab14. List\bin\Debug\net10.0\Lab14. List.deps.json
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab14. List\bin\Debug\net10.0\Lab14. List.runtimeconfig.json
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab14. List\bin\Debug\net10.0\Lab14. List.dll
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab14. List\bin\Debug\net10.0\Lab14. List.pdb
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab14. List\obj\Debug\net10.0\Lab14. List.dll
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab14. List\obj\Debug\net10.0\refint\Lab14. List.dll
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab14. List\obj\Debug\net10.0\Lab14. List.pdb
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab14. List\obj\Debug\net10.0\Lab14. List.genruntimeconfig.cache
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab14. List\obj\Debug\net10.0\ref\Lab14. List.dll
