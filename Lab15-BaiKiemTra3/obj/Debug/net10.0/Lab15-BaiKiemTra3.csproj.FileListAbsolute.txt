@@ -1,0 +1,15 @@
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab15-BaiKiemTra3\bin\Debug\net10.0\Lab15-BaiKiemTra3.exe
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab15-BaiKiemTra3\bin\Debug\net10.0\Lab15-BaiKiemTra3.deps.json
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab15-BaiKiemTra3\bin\Debug\net10.0\Lab15-BaiKiemTra3.runtimeconfig.json
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab15-BaiKiemTra3\bin\Debug\net10.0\Lab15-BaiKiemTra3.dll
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab15-BaiKiemTra3\bin\Debug\net10.0\Lab15-BaiKiemTra3.pdb
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab15-BaiKiemTra3\obj\Debug\net10.0\Lab15-BaiKiemTra3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab15-BaiKiemTra3\obj\Debug\net10.0\Lab15-BaiKiemTra3.AssemblyInfoInputs.cache
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab15-BaiKiemTra3\obj\Debug\net10.0\Lab15-BaiKiemTra3.AssemblyInfo.cs
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab15-BaiKiemTra3\obj\Debug\net10.0\Lab15-BaiKiemTra3.csproj.CoreCompileInputs.cache
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab15-BaiKiemTra3\obj\Debug\net10.0\Lab15-BaiKiemTra3.sourcelink.json
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab15-BaiKiemTra3\obj\Debug\net10.0\Lab15-BaiKiemTra3.dll
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab15-BaiKiemTra3\obj\Debug\net10.0\refint\Lab15-BaiKiemTra3.dll
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab15-BaiKiemTra3\obj\Debug\net10.0\Lab15-BaiKiemTra3.pdb
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab15-BaiKiemTra3\obj\Debug\net10.0\Lab15-BaiKiemTra3.genruntimeconfig.cache
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab15-BaiKiemTra3\obj\Debug\net10.0\ref\Lab15-BaiKiemTra3.dll
