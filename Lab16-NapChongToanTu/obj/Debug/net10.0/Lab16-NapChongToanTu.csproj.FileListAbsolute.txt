@@ -1,0 +1,15 @@
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab16-NapChongToanTu\bin\Debug\net10.0\Lab16-NapChongToanTu.exe
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab16-NapChongToanTu\bin\Debug\net10.0\Lab16-NapChongToanTu.deps.json
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab16-NapChongToanTu\bin\Debug\net10.0\Lab16-NapChongToanTu.runtimeconfig.json
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab16-NapChongToanTu\bin\Debug\net10.0\Lab16-NapChongToanTu.dll
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab16-NapChongToanTu\bin\Debug\net10.0\Lab16-NapChongToanTu.pdb
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab16-NapChongToanTu\obj\Debug\net10.0\Lab16-NapChongToanTu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab16-NapChongToanTu\obj\Debug\net10.0\Lab16-NapChongToanTu.AssemblyInfoInputs.cache
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab16-NapChongToanTu\obj\Debug\net10.0\Lab16-NapChongToanTu.AssemblyInfo.cs
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab16-NapChongToanTu\obj\Debug\net10.0\Lab16-NapChongToanTu.csproj.CoreCompileInputs.cache
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab16-NapChongToanTu\obj\Debug\net10.0\Lab16-NapChongToanTu.sourcelink.json
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab16-NapChongToanTu\obj\Debug\net10.0\Lab16-NapChongToanTu.dll
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab16-NapChongToanTu\obj\Debug\net10.0\refint\Lab16-NapChongToanTu.dll
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab16-NapChongToanTu\obj\Debug\net10.0\Lab16-NapChongToanTu.pdb
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab16-NapChongToanTu\obj\Debug\net10.0\Lab16-NapChongToanTu.genruntimeconfig.cache
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab16-NapChongToanTu\obj\Debug\net10.0\ref\Lab16-NapChongToanTu.dll
