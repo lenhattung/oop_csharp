@@ -1,0 +1,15 @@
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab17-Stack\bin\Debug\net10.0\Lab17-Stack.exe
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab17-Stack\bin\Debug\net10.0\Lab17-Stack.deps.json
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab17-Stack\bin\Debug\net10.0\Lab17-Stack.runtimeconfig.json
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab17-Stack\bin\Debug\net10.0\Lab17-Stack.dll
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab17-Stack\bin\Debug\net10.0\Lab17-Stack.pdb
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab17-Stack\obj\Debug\net10.0\Lab17-Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab17-Stack\obj\Debug\net10.0\Lab17-Stack.AssemblyInfoInputs.cache
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab17-Stack\obj\Debug\net10.0\Lab17-Stack.AssemblyInfo.cs
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab17-Stack\obj\Debug\net10.0\Lab17-Stack.csproj.CoreCompileInputs.cache
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab17-Stack\obj\Debug\net10.0\Lab17-Stack.sourcelink.json
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab17-Stack\obj\Debug\net10.0\Lab17-Stack.dll
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab17-Stack\obj\Debug\net10.0\refint\Lab17-Stack.dll
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab17-Stack\obj\Debug\net10.0\Lab17-Stack.pdb
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab17-Stack\obj\Debug\net10.0\Lab17-Stack.genruntimeconfig.cache
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab17-Stack\obj\Debug\net10.0\ref\Lab17-Stack.dll
