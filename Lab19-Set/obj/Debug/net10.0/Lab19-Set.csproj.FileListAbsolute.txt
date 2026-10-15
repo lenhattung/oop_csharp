@@ -1,0 +1,15 @@
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab19-Set\bin\Debug\net10.0\Lab19-Set.exe
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab19-Set\bin\Debug\net10.0\Lab19-Set.deps.json
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab19-Set\bin\Debug\net10.0\Lab19-Set.runtimeconfig.json
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab19-Set\bin\Debug\net10.0\Lab19-Set.dll
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab19-Set\bin\Debug\net10.0\Lab19-Set.pdb
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab19-Set\obj\Debug\net10.0\Lab19-Set.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab19-Set\obj\Debug\net10.0\Lab19-Set.AssemblyInfoInputs.cache
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab19-Set\obj\Debug\net10.0\Lab19-Set.AssemblyInfo.cs
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab19-Set\obj\Debug\net10.0\Lab19-Set.csproj.CoreCompileInputs.cache
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab19-Set\obj\Debug\net10.0\Lab19-Set.sourcelink.json
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab19-Set\obj\Debug\net10.0\Lab19-Set.dll
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab19-Set\obj\Debug\net10.0\refint\Lab19-Set.dll
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab19-Set\obj\Debug\net10.0\Lab19-Set.pdb
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab19-Set\obj\Debug\net10.0\Lab19-Set.genruntimeconfig.cache
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab19-Set\obj\Debug\net10.0\ref\Lab19-Set.dll
