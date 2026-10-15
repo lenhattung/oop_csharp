@@ -1,0 +1,15 @@
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab20-Dictionary\bin\Debug\net10.0\Lab20-Dictionary.exe
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab20-Dictionary\bin\Debug\net10.0\Lab20-Dictionary.deps.json
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab20-Dictionary\bin\Debug\net10.0\Lab20-Dictionary.runtimeconfig.json
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab20-Dictionary\bin\Debug\net10.0\Lab20-Dictionary.dll
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab20-Dictionary\bin\Debug\net10.0\Lab20-Dictionary.pdb
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab20-Dictionary\obj\Debug\net10.0\Lab20-Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab20-Dictionary\obj\Debug\net10.0\Lab20-Dictionary.AssemblyInfoInputs.cache
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab20-Dictionary\obj\Debug\net10.0\Lab20-Dictionary.AssemblyInfo.cs
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab20-Dictionary\obj\Debug\net10.0\Lab20-Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab20-Dictionary\obj\Debug\net10.0\Lab20-Dictionary.sourcelink.json
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab20-Dictionary\obj\Debug\net10.0\Lab20-Dictionary.dll
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab20-Dictionary\obj\Debug\net10.0\refint\Lab20-Dictionary.dll
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab20-Dictionary\obj\Debug\net10.0\Lab20-Dictionary.pdb
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab20-Dictionary\obj\Debug\net10.0\Lab20-Dictionary.genruntimeconfig.cache
+C:\Users\Le Nhat Tung\Documents\GitHub\oop_csharp\Lab20-Dictionary\obj\Debug\net10.0\ref\Lab20-Dictionary.dll
